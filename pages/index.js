@@ -12,7 +12,7 @@ const Home = ({ allPostsData, jobs }) => {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum recusandae totam suscipit culpa cupiditate consequuntur, earum, aspernatur perferendis in ullam doloribus, quam possimus quod veritatis! Sapiente corrupti a commodi facilis.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum recusandae totam suscipit culpa cupiditate consequuntur, earum, aspernatur perferendis in ullam doloribus, quam possimus quod veritatis! Sapiente corrupti a commodi facilis test.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
