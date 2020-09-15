@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Link from 'next/Link'
+import Link from 'next/link'
 import { getSortedPostsData, getJobs } from '../lib/posts'
 import Date from '../components/date'
 import Layout, { siteTitle } from '../components/layout'
